@@ -38,4 +38,16 @@ background-image: url(images/neon-orange-color-solid-background-1920x1080.png);
 .halloweenBIG{
 color: black;
 text-align: center;
+  font-size: 30px;
+}
+
+.halloweencenter{
+  color: black;
+text-align: center;
   font-size: 20px;
+  list-style-position: inside;
+}
+
+.video{
+text-align: center;
+}
